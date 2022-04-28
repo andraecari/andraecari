@@ -2,7 +2,7 @@
 Welcome to my GitHub Profile!
 
 
-- I'm a computer science student at the **Toronto Metropolitan University** (formerly known as, Ryerson University)!
+- I'm a computer science student at **Toronto Metropolitan University** (formerly known as, Ryerson University)!
 - I'm currently interested in software engineering and devops.
 - I'm currently working on personal projects! 😅
 ---
