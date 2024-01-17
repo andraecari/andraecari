@@ -6,6 +6,6 @@ Welcome to my GitHub Profile!
 - 🔭 I'm currently interested in software engineering.
 - 🔨 I'm currently working on personal projects! 😅
 ---
-#### 🔗 Reach me here!
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrae-cari/)
-or **acari@ryerson.ca**
+### 🔗 Reach me here!
+https://www.linkedin.com/in/andrae-cari/ <br>
+acari@torontomu.ca
